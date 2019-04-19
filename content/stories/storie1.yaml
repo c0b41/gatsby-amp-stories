@@ -1,0 +1,20 @@
+title: 'Emma'
+url: 'https://github.com/LekoArts/gatsby-starter-portfolio-emma'
+name: 'portfolio-emma'
+preview: 'https://emma.lekoarts.de'
+description: 'Full-width grid with large images and a light theme'
+cover: './../test-storie-1/emma.jpg'
+features:
+  - CSS Grid
+  - Animations
+  - styled-components
+  - MDX
+pages:
+  -
+    cover: './../test-storie-1/cover.jpg'
+    title: 'page 1 title'
+    desc: 'page 1 desc'
+  -
+    cover: './../test-storie-1/cover.jpg'
+    title: 'page 2 title'
+    desc: 'page 2 desc'
