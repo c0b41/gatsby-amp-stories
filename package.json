@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "@c0b41/gatsby-plugin-amp": "^1.0.2",
+    "@c0b41/gatsby-plugin-amp": "1.0.2-canary.0",
     "gatsby": "^2.3.25",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-amp": "^0.2.1",
@@ -16,6 +16,7 @@
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-transformer-sharp": "^2.1.18",
     "gatsby-transformer-yaml": "^2.1.11",
+    "html-react-parser": "^0.7.0",
     "lodash": "^4.17.11",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",

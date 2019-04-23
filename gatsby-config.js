@@ -47,9 +47,10 @@ module.exports = {
         ],
         excludedPaths: ['/404*', '/'],
         pathIdentifier: '/p',
+        stories: true,
         relAmpHtmlPattern: '{{canonicalBaseUrl}}{{pathname}}{{pathIdentifier}}'
       }
-    },
+    }
     //{
     //  resolve: `gatsby-amp-storie`,
     //}
